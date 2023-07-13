@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" id="WebApp_ID" version="6.0">
+<!--   <servlet> -->
+<!--   	<servlet-name>demo</servlet-name> -->
+<!--   	<servlet-class>demo.AddServlet</servlet-class> -->
+<!--   </servlet> -->
+  
+<!--   <servlet-mapping> -->
+<!--   	<servlet-name>demo</servlet-name> -->
+<!--   	<url-pattern>/add</url-pattern> -->
+<!--   </servlet-mapping> -->
+  
+<!--  <servlet> -->
+<!--   <servlet-name>Square</servlet-name> -->
+<!--   <servlet-class>demo.SquareServlet</servlet-class> -->
+<!-- </servlet> -->
+
+  
+<!--   <servlet-mapping> -->
+<!--   	<servlet-name>Square</servlet-name> -->
+<!--   	<url-pattern>/square</url-pattern> -->
+<!--   </servlet-mapping> -->
+  
+<!--   <servlet> -->
+<!--   	<servlet-name>context</servlet-name> -->
+<!--   	<servlet-class>demo.ServletForContext</servlet-class> -->
+<!--   </servlet> -->
+<!--   <servlet-mapping> -->
+<!--   	<servlet-name>context</servlet-name> -->
+<!--   	<url-pattern>/home</url-pattern> -->
+<!--   </servlet-mapping> -->
+  
+<!--   <context-param> -->
+<!--   	<param-name>name</param-name> -->
+<!--   	<param-value>adib</param-value> -->
+<!--   </context-param> -->
+  
+<!--   <context-param> -->
+<!--   	<param-name>phone</param-name> -->
+<!--   	<param-value>xiaomi</param-value> -->
+<!--   </context-param> -->
+  
+</web-app>
